@@ -11,48 +11,48 @@ export const DataCarrusel = [
         id: 1,
         title: 'Termo Metallic Color',
         price: '$ 25000',
-        imgpath: <img className='slider1' src={termo}/>
+        imgpath: <img className='slider1' alt='' src={termo}/>
     },
     {
         id: 2,
         title: 'Engrapadora Casio MXs2',
         price: '$ 7500',
-        imgpath: <img className='slider1' src={stapler}/>
+        imgpath: <img className='slider1' alt='' src={stapler}/>
     },
     {
         id: 3,
         title: 'Agenda Belmet 60 hojas',
         price: '$ 5250',
-        imgpath: <img className='slider1' src={agenda}/>
+        imgpath: <img className='slider1' alt='' src={agenda}/>
     },
     {
         id: 4,
         title: 'Tijeras KidsFriendly',
         price: '$ 4100',
-        imgpath: <img className='slider1' src={scissors}/>
+        imgpath: <img className='slider1' alt='' src={scissors}/>
     },
     {
         id: 5,
         title: 'Pluma SpennerLit',
         price: '$ 153700',
-        imgpath: <img className='slider1' src={pen}/>
+        imgpath: <img className='slider1' alt='' src={pen}/>
     },
     {
         id: 6,
         title: 'Sacapuntas en Pasta Big',
         price: '$ 750',
-        imgpath: <img className='slider1' src={sharpener}/>
+        imgpath: <img className='slider1' alt='' src={sharpener}/>
     },
     {
         id: 7,
         title: 'Metro Genérico',
         price: '$ 5200',
-        imgpath: <img className='slider1' src={metro}/>
+        imgpath: <img className='slider1' alt='' src={metro}/>
     },
     {
         id: 8,
         title: 'Borrador Pineapple Shaped',
         price: '$ 5420',
-        imgpath: <img className='slider1' src={eraser}/>
+        imgpath: <img className='slider1' alt='' src={eraser}/>
     },
 ]

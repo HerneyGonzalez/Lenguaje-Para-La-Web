@@ -7,7 +7,6 @@ import { ProductCard } from '../components/ProductCard';
 //import color2 from '../img/color-sharp2.png'
 import React from 'react';
 import TrackVisibility from 'react-on-screen';
-import { Link } from 'react-router-dom';
 function Middle2() {
     const productos = [
         {

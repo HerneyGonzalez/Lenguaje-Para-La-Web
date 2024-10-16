@@ -15,7 +15,7 @@ function Carrusel() {
         }
         window.addEventListener("scroll", onScroll);
         return () => window.removeEventListener("scroll", onScroll);
-    }, [])
+    }, [scrolled])
     return (
     <Carousel className="carrusel" variant="dark">
       <Carousel.Item>
