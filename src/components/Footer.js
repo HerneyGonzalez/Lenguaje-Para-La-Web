@@ -13,7 +13,7 @@ function Footer() {
             <footer>
                 <div className='footer-content'>
                     <Link to="/"><img alt='logo' className='logito' src={logo}></img></Link>
-                    <p>Enfocados en traer los mejores productos del mercado, a tu manos!</p>
+                    <p>Enfocados en traer los mejores productos del mercado, a tus manos!</p>
                     <p className='desde'>Desde 1986</p>
                     <ul className='socials'>
                         <li><a href='#facebook'><i><img alt="no carga"src={facebook}></img></i></a></li>
@@ -24,7 +24,7 @@ function Footer() {
                     </ul>                
                 </div>
                 <div className='footer-bottom'>
-                    <p>Copyright &copy; 2022 StationaryShop Design By <span>usteam</span></p>
+                    <p>Copyright &copy; 2024 StationaryShop Design By <span>usteam</span></p>
                 </div>
             </footer>
 

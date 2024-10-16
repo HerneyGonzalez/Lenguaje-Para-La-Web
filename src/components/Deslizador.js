@@ -43,7 +43,9 @@ function Deslizador() {
   return (
     <div className="App2">
       <h1 id='nove'>Novedades</h1>
-      <h2 id='ver'>VER TODO</h2>
+      <Link to="/products">
+      <h2 id='ver'><strong>VER TODO</strong></h2>
+      </Link>
       <Slider className='slidero' {...settings}>
         {DataCarrusel.map(item => (
           <div className="card">
